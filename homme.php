@@ -29,7 +29,7 @@
         <a href="inscription.php">Inscription</a>
 		<a href="connexion.php"> <i class="fa fa-fw fa-user"></i> Connexion</a>
 		<a href="#"><i class="fa fa-fw fa-envelope"></i> Contact</a> 
-		<a href="panier.php"><img src="img/products/icone.png" alt="panier" width="23"></a>
+		
         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
          <span class="fa fa-bars"></span>
 		</a>
