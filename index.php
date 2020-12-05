@@ -53,8 +53,8 @@
                 .presentation{
                     background-color:#FFFF;
                 }
-                img{
-                  margin-right:15Opx;
+                .lead{
+                  margin-left:450px;
                 }
          </style>
 
