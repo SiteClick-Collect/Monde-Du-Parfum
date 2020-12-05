@@ -82,6 +82,7 @@ contact@acheteur.fr"></textarea>
             </div>
 
             <a href="#" class="btn btn--blue hide-printing" id="print">Imprimer</a>
+            <a href="homme.php">Retourner à la boutique</a>
         </div>
 
         <script src="node_modules/jquery/dist/jquery.min.js"></script>
