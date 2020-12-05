@@ -1,0 +1,20 @@
+button{
+	-moz-box-shadow: 2px 5px 17px 0px #E70606;
+	-webkit-box-shadow: 2px 5px 17px 0px #F8D617;
+	box-shadow: 2px 5px 17px 0px #BEEB09;
+	background-color:#0E0F0E;
+	-moz-border-radius:17px;
+	-webkit-border-radius:17px;
+	border-radius:17px;
+	border:2px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#09F617;
+	font-family:Trebuchet MS;
+	font-size:19px;
+	padding:12px 40px;
+	text-decoration:none;
+	margin-right: 20px;
+	text-align: center;
+    display: inline-block;
+}
