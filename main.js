@@ -123,7 +123,7 @@ function addCartFooter(){
             <button class="btn btn-danger" data-action="CLEAR_CART">vider le panier
             </button>
             <button class="btn btn-primary" data-action="CHECKOUT">Pay</button>
-            <button class="btn btn-primary" data-action="CHECKOUT">CB</button>
+            <button class="btn btn-success" data-action="CHECKOUT">CB</button>
             
         </div>
     `);
