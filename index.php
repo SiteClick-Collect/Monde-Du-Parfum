@@ -87,6 +87,15 @@
 			</li>
 			<li class="list-inline-item">
             <a href="faq.php" class="btn btn-outline-white btn-rounded">FAQ</a>
+            <a href="insereClient.html">inserer client</a>
+            <a href="indexclient.html">index client</a>
+            <a href="modifierClient.html">modif client</a>
+            <a href="formInsereClient1.html.html">formInser client</a>
+            <a href="formSuprimeClient.php">Sup client</a>
+            <a href="formModifClient.php">Sup client</a>
+
+
+            
 			</li>
 		  </ul>
 		  <!-- Call to action -->
