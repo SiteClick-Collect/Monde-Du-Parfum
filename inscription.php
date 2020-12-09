@@ -137,7 +137,7 @@
       <!-- Call to action -->
       <ul class="list-unstyled list-inline text-center py-2">
         <li class="list-inline-item">
-          <h5 class="mb-1">Register for free</h5>
+          <h5 class="mb-1">S'inscrire gratuitement</h5>
         </li>
         <li class="list-inline-item">
         <a href="faq.php" class="btn btn-outline-white btn-rounded">FAQ</a>

@@ -2,7 +2,7 @@
 <!Doctype html>
 <html lang="fr">
     <head>
-        <title>paiement</title>
+        <title>Paiement</title>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
     <link rel="stylesheet" href="main.css">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
@@ -54,7 +54,7 @@
                                     <input type="text" class="form-control" placeholder="Nom complet sur la carte" required/>
 
                                 </div>
-                                <button class="btn btn-warning btn-lg btn-block">valider le payment</button>
+                                <button class="btn btn-warning btn-lg btn-block">Valider le paiement</button>
                             </div>
                         </div>
                       
@@ -72,7 +72,7 @@
     </div>
 </div>
 <div class="container">
-  <h1>returner a la boutique <a href="femmes.php"> Par ici</a></h1>
+  <h1>Retourner à la boutique <a href="femmes.php"> Par ici</a></h1>
 </div>
 
 <style>

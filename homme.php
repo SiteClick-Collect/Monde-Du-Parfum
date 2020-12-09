@@ -43,14 +43,14 @@
 	<main class="main-container">
 
 		<section class="section">
-			<h2 class="text-center">welcom!</h2>
+			<h2 class="text-center">Welcome!</h2>
 			<div class="products">
 				
 				<div class="product">
 					<img class="product__image" src="img/products/parfum3.jpg" alt="Beer">
 					<h2 class="product__name">parfum10</h2>
 					<h3 class="product__price">66</h3>
-					<p>un produit de qualité pour vous rendre merveillé</p>
+					<p>Un produit de qualité pour vous émerveiller</p>
 					<button class="btn btn-primary" data-action="ADD_TO_CART">Ajouter au panier</button>
 					
 				</div>
@@ -136,7 +136,7 @@
 		  <!-- Call to action -->
 		  <ul class="list-unstyled list-inline text-center py-2">
 			<li class="list-inline-item">
-			  <h5 class="mb-1">Register for free</h5>
+			  <h5 class="mb-1">S'inscrire gratuitement</h5>
 			</li>
 			<li class="list-inline-item">
             <a href="faq.php" class="btn btn-outline-white btn-rounded">FAQ</a>
